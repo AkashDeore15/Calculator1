@@ -24,19 +24,20 @@ A simple calculator application built to perform basic arithmetic operations. Th
 2. **Navigate to the project folder**
 ```sh
 cd Calculator1
+```
 
 3. **Compile and run (for C-based projects)**
 
 ```sh
 gcc calculator.c -o calculator
 ./calculator
-
+```
 **OR
 Run directly (for Python-based projects)**
 
 ```sh
 python calculator.py
-
+```
 ## 🖥️ Usage
 1.Run the program.
 2.Input numbers and select an operation.
